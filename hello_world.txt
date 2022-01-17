@@ -7,5 +7,6 @@
 </head>
 <body>
     <p>Hello world</p>
+    <p>testing git commit commad while omiting -m</p>
 </body>
 </html>
